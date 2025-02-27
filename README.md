@@ -160,8 +160,8 @@ Enhanced Collaboration: By providing a shared view of the project’s status, Pr
 Examples 
 
 - Bug Tracking: A team uses GitHub Issues to report and track bugs. Each bug is labeled, assigned to a developer, and linked to a milestone. The team uses a Project Board to visualize the status of each bug (e.g., Reported, In Progress, Fixed).
-Feature Development: For a new feature, the team creates an issue outlining the requirements. A Project Board column for “Feature Development” is used to track progress. As developers work on the feature, they update the issue with comments, and eventually, a pull request is linked to the issue.
-Sprint Planning: A team uses a Project Board to plan their sprint, with columns for each stage of the sprint (Backlog, To Do, In Progress, Testing, Done). Issues are moved through these columns as work progresses.
+-Feature Development: For a new feature, the team creates an issue outlining the requirements. A Project Board column for “Feature Development” is used to track progress. As developers work on the feature, they update the issue with comments, and eventually, a pull request is linked to the issue.
+-Sprint Planning: A team uses a Project Board to plan their sprint, with columns for each stage of the sprint (Backlog, To Do, In Progress, Testing, Done). Issues are moved through these columns as work progresses.
 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
